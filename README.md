@@ -2,6 +2,8 @@
 
 # Managing SIFT with Saltstack
 
+word
+
 ## Issues 
 
 Please open issues over at the [SIFT Repository](https://github.com/sans-dfir/sift/issues/new?title=[SALTSTACK]%20-) with prefix '[SALTSTACK]'
